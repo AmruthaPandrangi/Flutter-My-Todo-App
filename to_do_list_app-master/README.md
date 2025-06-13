@@ -39,31 +39,5 @@ A clean and efficient Flutter ToDo List application featuring task creation, edi
 - Hive was chosen for its fast, lightweight, and no-SQL local database capability  
 - Notification triggers set 10 minutes before due time using `flutter_local_notifications`  
 
----
 
-## 🔧 Installation & Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/GyanaGRS/to_do_list_app.git
-   cd to_do_list_app
-   ```
-
-2. Get dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-3. Run the app:
-   ```bash
-   flutter run
-   ```
-
----
-
-## 📦 Download APK
-
-👉 [Click here to download the latest APK](https://github.com/GyanaGRS/to_do_list_app/releases/latest)
-
----
 
