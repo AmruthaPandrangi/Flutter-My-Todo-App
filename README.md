@@ -1,4 +1,3 @@
-# Flutter
 # 📋 ToDo List App (Flutter)
 
 A clean and efficient Flutter ToDo List application featuring task creation, editing, deletion, priority sorting, keyword-based search, local data persistence using Hive, and local notifications for due reminders.
@@ -39,4 +38,6 @@ A clean and efficient Flutter ToDo List application featuring task creation, edi
 - Used simple `StatefulWidgets` instead of MVVM or GetX for simplicity and clarity  
 - Hive was chosen for its fast, lightweight, and no-SQL local database capability  
 - Notification triggers set 10 minutes before due time using `flutter_local_notifications`  
+
+
 
