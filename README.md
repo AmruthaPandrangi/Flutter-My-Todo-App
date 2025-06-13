@@ -1,5 +1,7 @@
 # 📋 ToDo List App (Flutter)
+# My Flutter To-Do List App
 
+This is a to-do list application built with Flutter.
 A clean and efficient Flutter ToDo List application featuring task creation, editing, deletion, priority sorting, keyword-based search, local data persistence using Hive, and local notifications for due reminders.
 
 ---
